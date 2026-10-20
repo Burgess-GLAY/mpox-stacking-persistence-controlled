@@ -1,0 +1,4 @@
+,mean,lo,hi
+onset_v10,0.884,0.851,0.913
+onset_env_only,0.704,0.638,0.771
+onset_history_only,0.899,0.871,0.925

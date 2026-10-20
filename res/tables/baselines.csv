@@ -1,0 +1,6 @@
+baseline,pooled,DRC,NIGERIA,UGANDA
+persistence_lag1,0.778,0.52,0.82,0.773
+persistence_prevout,0.788,0.489,0.831,0.743
+logreg_v9_features,0.659,0.729,0.643,0.768
+logreg_v10_features,0.814,0.681,0.848,0.725
+stack_v10,0.943,0.93,0.943,0.75

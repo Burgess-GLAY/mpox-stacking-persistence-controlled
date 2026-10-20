@@ -1,0 +1,6 @@
+features,onset_auc,continuation_auc,onset_n,onset_pos_rate,cont_n,cont_pos_rate
+v10,0.884,0.926,1911.0,0.078,924.0,0.549
+v9,0.816,0.877,1911.0,0.078,924.0,0.549
+env_only,0.702,0.533,1911.0,0.078,924.0,0.549
+history_only,0.898,0.922,1911.0,0.078,924.0,0.549
+persistence,,0.636,,,,

@@ -1,0 +1,4 @@
+horizon_months,windows,test_rows,persistence,xgb,rf,stack,stack_history_only,stack_env_only,d_stack_persistence,d_stack_persistence_lo,d_stack_persistence_hi,d_stack_xgb,d_stack_xgb_lo,d_stack_xgb_hi
+1,26,771,0.749,0.849,0.873,0.879,0.862,0.463,0.128,0.085,0.176,0.03,0.008,0.061
+3,21,1611,0.763,0.793,0.823,0.824,0.834,0.52,0.057,0.01,0.101,0.03,0.007,0.059
+6,12,1827,0.764,0.783,0.811,0.807,0.806,0.515,0.039,-0.021,0.086,0.024,-0.007,0.062

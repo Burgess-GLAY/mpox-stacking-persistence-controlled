@@ -1,0 +1,29 @@
+{
+ "rf": {
+  "n_estimators": 100,
+  "min_samples_leaf": 10,
+  "max_depth": 6
+ },
+ "xgb": {
+  "subsample": 0.8,
+  "reg_lambda": 5.0,
+  "reg_alpha": 5.0,
+  "n_estimators": 300,
+  "max_depth": 3,
+  "learning_rate": 0.05,
+  "colsample_bytree": 0.6
+ },
+ "mlp": {
+  "hidden_layer_sizes": [
+   32,
+   16
+  ],
+  "alpha": 0.1
+ },
+ "meta_coef": [
+  2.0261910413750908,
+  4.983059471065468,
+  -0.11076399606036488
+ ],
+ "meta_intercept": -3.132488213092386
+}

@@ -1,0 +1,4 @@
+horizon,windows,rows,persistence,stack_full,stack_trainonly,stack_v9,xgb_trainonly,rf_trainonly,d_persistence,d_persistence_lo,d_persistence_hi,d_xgb_trainonly,d_xgb_trainonly_lo,d_xgb_trainonly_hi,d_stack_v9,d_stack_v9_lo,d_stack_v9_hi
+1,26,771,0.749,0.879,0.879,0.873,0.849,0.873,0.127,0.08,0.178,0.029,0.005,0.06,0.006,-0.013,0.022
+3,21,1611,0.763,0.824,0.824,0.828,0.793,0.822,0.058,0.003,0.103,0.03,0.007,0.06,-0.003,-0.028,0.023
+6,12,1827,0.764,0.807,0.807,0.804,0.782,0.811,0.039,-0.026,0.085,0.024,-0.004,0.06,0.002,-0.031,0.041

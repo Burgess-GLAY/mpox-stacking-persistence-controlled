@@ -1,0 +1,11 @@
+{
+  "title": "Data and code for: A Persistence-Controlled Evaluation of Stacked Ensembles for Sub-National Mpox Activity Classification",
+  "upload_type": "software",
+  "description": "Reproducibility package: harmonised unit-month panel (2,835 unit-months, 72 units in DRC, Nigeria and Uganda), analysis code, stored predictions and result tables, and source-report manifests with SHA-256 hashes. The binary outcome is reported activity (new_cases_monthly > 0) and coincides with the coverage flag; see README.",
+  "creators": [
+    {"name": "Glay, Burgess Awalayah", "affiliation": "Nanjing University of Posts and Telecommunications", "orcid": "0009-0004-2153-2695"},
+    {"name": "He, Xu", "affiliation": "Nanjing University of Posts and Telecommunications", "orcid": "0000-0003-2809-2237"}
+  ],
+  "license": "MIT",
+  "keywords": ["mpox", "stacked ensemble", "persistence baseline", "sub-national classification", "SHAP"]
+}
